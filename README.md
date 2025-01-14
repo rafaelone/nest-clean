@@ -1,5 +1,3 @@
-Aqui está um README.md ideal para o projeto **Nest Clean**, estruturado para ser informativo e profissional:
-
 # Nest Clean
 
 Este projeto é uma aplicação modelo que segue os princípios do **Domain-Driven Design (DDD)** e da **Arquitetura Limpa** (Clean Architecture), implementada utilizando o framework **NestJS**. Ele serve como uma base sólida para construir aplicações escaláveis e organizadas, separando claramente as responsabilidades em diferentes camadas.
